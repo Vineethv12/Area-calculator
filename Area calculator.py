@@ -1,7 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
+#Area calculator for Square, Triangle, Cylinder and Circle
 
-# In[2]:
 
 
 print("Which shape would you like to calculate the area for? Please enter the option number-")
@@ -40,5 +38,3 @@ if userChoice == 4:
     circCalc = str(circCalc)
     print("The area of circle is: " + circCalc)
 
-
-# 
